@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				233
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "reina onsen Ide",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				233
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "reina onsen L0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				223
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "reina onsen D0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				223
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "reina onsen U0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "reina onsen Ded L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "reina onsen Ded C",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "reina onsen Ded0"
+		},
+		{
+			"offsets": [
+				140,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "reina onsen L M"
+		},
+		{
+			"offsets": [
+				140,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "reina onsen R0"
+		},
+		{
+			"offsets": [
+				140,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "reina onsen D M"
+		},
+		{
+			"offsets": [
+				140,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "reina onsen U D"
+		},
+		{
+			"offsets": [
+				140,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "reina onsen R M"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reina onsen",
+	"position": [
+		-60,
+		380
+	],
+	"healthicon": "reina-onsen",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		60,
+		60
+	],
+	"camera_position": [
+		-80,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
