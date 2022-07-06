@@ -80,7 +80,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Port Mod by'],
-			['Nael1820',		    'nael',		    'Port Mod Android',	 'https://youtube.com/channel/UCdIK_fH9T-JO-uLfT_fCp8Q',	    '08C7C7'],
+			['Animation Zay',		    'nael',		    'Create Mod',	 'https://youtube.com/channel/UCdIK_fH9T-JO-uLfT_fCp8Q',	    '08C7C7'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
