@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"royals",
+			"zay",
+			[
+				26,
+				113,
+				253
+			]
+		],
+		[
+			"now-its-done",
+			"zayx",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"im-dead",
+			"zayx",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "zay",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"zay",
+		"",
+		""
+	],
+	"storyName": "now its royals",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"soreats",
+			"dachabenz",
+			[
+				66,
+				73,
+				93
+			]
+		],
+		[
+			"end-off",
+			"dachabenz",
+			[
+				66,
+				73,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "dach",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"dac",
+		"",
+		""
+	],
+	"storyName": "of the rest",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
